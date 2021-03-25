@@ -6,6 +6,8 @@ public class hellochina {
         System.out.println("helloworld!");
         System.out.println("helloworld!");
         System.out.println("helloworld!");
+        System.out.println("我是master代码1");
+
 
     }
 }
