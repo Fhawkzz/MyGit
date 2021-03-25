@@ -9,5 +9,8 @@ public class hellochina {
         System.out.println("我是master代码1");
 
 
+        System.out.println("helloworld!");
+        System.out.println("我是dev01代码1号");
+
     }
 }
